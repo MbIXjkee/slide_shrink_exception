@@ -1,0 +1,1 @@
+# slide_shrink_exception
